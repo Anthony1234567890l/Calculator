@@ -1,2 +1,2 @@
 # Calculator
-Calculator App
+Calculator App that uses html, css and javascript.
